@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Welcome!
 
-<!--
-**fatemehnadir/fatemehnadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Vision Researcher** and **AI Engineer** specializing in **Multimodal Learning** and **Trustworthy AI**.  
+I hold an **M.Sc. in Artificial Intelligence** from the **University of Tehran**, where my research focused on **Interpretable Representation Learning with Generative Models**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+- Multimodal AI (Vision & Text)  
+- Generative Models  
+- Trustworthy AI  
+
+---
+
+### 🏆 Experience
+- **Data Scientist** at *Matina Group* 🚀  
+- **Researcher** at *University of Tehran* 🎓 *(Generative & Trustworthy AI)*  
+- **Teaching Assistant** for AI Courses — *Deep Learning, Trustworthy AI, Generative Models, Statistical Inference*  
+
+---
+
+### 🤝 Seeking Collaborations
+I’m open to collaborations in **Generative AI**, **Multimodal Learning**, and **Trustworthy AI**.  
+Feel free to reach out via email or connect on my professional profiles below:
+
+🌐 [Website](https://fatemehnadir.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/fatemehnadi/)
